@@ -1,5 +1,6 @@
 ### Hi there 👋
 ---
+Perfil de Linkedin: [Roger Gomis Cabezuelo | LinkedIn](https://www.linkedin.com/in/rgomiscab/)
 
 <!--
 **Kaiser11-dev/Kaiser11-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
